@@ -1,0 +1,4 @@
+{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://raw.githubusercontent.com/tonnygjs/tv/main/直播转点播.js","ext": "https://raw.githubusercontent.com/tonnygjs/tv/main/直播源.js&&&https://api.r10086.com/img-api.php?type=极品美女图片"}, 
+
+
+{"key": "直播转点播","name": "直播转换","type": 3,"api": "./js/直播转点播.js","ext": "./ lives/$$$本地名称$本地直播.txt#名称①$直播链接①#名称②$直播链接②#名称③$直播链接③"},
